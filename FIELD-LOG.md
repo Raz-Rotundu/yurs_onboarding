@@ -2,8 +2,8 @@
 ████ TOP SECRET ████   FIELD LOG   ·   AGENT: ______________
 ```
 
-**Codename:** *(yours)*
-**Started:** *(date)*
+**Codename:** *(Razvan)*
+**Started:** *(02/10/2026)*
 
 ---
 
